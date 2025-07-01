@@ -143,7 +143,7 @@ img {
     background-color: var(--light-gray); /* 背景色を少し明るく */
     text-align: center;
     padding: 80px 0;
-    background-image: url('images/IMG_3940.JPG'); /* ヒーロー背景画像 */
+    background-image: url('https://github.com/nnggss-star/blog/blob/main/IMG_3940.JPG?raw=true'); /* ヒーロー背景画像 */
     background-size: cover;
     background-position: center;
     color: #ffffff; /* テキストを白に */
